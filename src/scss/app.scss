@@ -1,0 +1,17 @@
+.app--wrapper {
+    width: 1140px;
+    margin: auto;
+    font-family: 'museo500', sans-serif;
+    h1 {
+        text-align: center;
+    }
+    .forms {
+        display: flex;
+        justify-content: space-evenly;
+        margin: 20px 0;
+        .line-between {
+            width: 2px;
+            background: #c4cad9;
+        }
+    }
+}
